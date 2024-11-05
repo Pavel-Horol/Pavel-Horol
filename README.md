@@ -1,7 +1,2 @@
 # description
-asdf
-asdfas
-asdfa
-dsafasd
-fasdfas
-dfasdf
+some cool description for my bio
